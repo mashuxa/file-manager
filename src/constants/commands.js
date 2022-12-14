@@ -12,4 +12,5 @@ export default {
   hash: 'hash',
   compress: 'compress',
   decompress: 'decompress',
+  exit: '.exit',
 };
